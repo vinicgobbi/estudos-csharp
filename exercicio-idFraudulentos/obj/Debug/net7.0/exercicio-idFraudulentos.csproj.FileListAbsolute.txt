@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\bin\Debug\net7.0\exercicio-idFraudulentos.exe
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\bin\Debug\net7.0\exercicio-idFraudulentos.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\bin\Debug\net7.0\exercicio-idFraudulentos.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\bin\Debug\net7.0\exercicio-idFraudulentos.dll
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\bin\Debug\net7.0\exercicio-idFraudulentos.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.dll
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\refint\exercicio-idFraudulentos.dll
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\exercicio-idFraudulentos.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\exercicio-idFraudulentos\obj\Debug\net7.0\ref\exercicio-idFraudulentos.dll

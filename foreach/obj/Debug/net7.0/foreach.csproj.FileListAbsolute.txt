@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\bin\Debug\net7.0\foreach.exe
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\bin\Debug\net7.0\foreach.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\bin\Debug\net7.0\foreach.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\bin\Debug\net7.0\foreach.dll
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\bin\Debug\net7.0\foreach.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.dll
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\refint\foreach.dll
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\foreach.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\foreach\obj\Debug\net7.0\ref\foreach.dll

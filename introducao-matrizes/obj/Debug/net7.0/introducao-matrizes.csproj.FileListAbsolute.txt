@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\bin\Debug\net7.0\introducao-matrizes.exe
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\bin\Debug\net7.0\introducao-matrizes.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\bin\Debug\net7.0\introducao-matrizes.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\bin\Debug\net7.0\introducao-matrizes.dll
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\bin\Debug\net7.0\introducao-matrizes.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.dll
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\refint\introducao-matrizes.dll
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\introducao-matrizes.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\obj\Debug\net7.0\ref\introducao-matrizes.dll
