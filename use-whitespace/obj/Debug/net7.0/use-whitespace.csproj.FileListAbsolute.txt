@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\bin\Debug\net7.0\use-whitespace.exe
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\bin\Debug\net7.0\use-whitespace.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\bin\Debug\net7.0\use-whitespace.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\bin\Debug\net7.0\use-whitespace.dll
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\bin\Debug\net7.0\use-whitespace.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.dll
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\refint\use-whitespace.dll
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\use-whitespace.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\use-whitespace\obj\Debug\net7.0\ref\use-whitespace.dll
