@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\bin\Debug\net7.0\jogo-dados.exe
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\bin\Debug\net7.0\jogo-dados.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\bin\Debug\net7.0\jogo-dados.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\bin\Debug\net7.0\jogo-dados.dll
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\bin\Debug\net7.0\jogo-dados.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.dll
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\refint\jogo-dados.dll
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\jogo-dados.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\jogo-dados\obj\Debug\net7.0\ref\jogo-dados.dll

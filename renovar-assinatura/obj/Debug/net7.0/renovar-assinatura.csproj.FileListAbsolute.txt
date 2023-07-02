@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\bin\Debug\net7.0\renovar-assinatura.exe
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\bin\Debug\net7.0\renovar-assinatura.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\bin\Debug\net7.0\renovar-assinatura.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\bin\Debug\net7.0\renovar-assinatura.dll
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\bin\Debug\net7.0\renovar-assinatura.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.dll
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\refint\renovar-assinatura.dll
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\renovar-assinatura.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\renovar-assinatura\obj\Debug\net7.0\ref\renovar-assinatura.dll
