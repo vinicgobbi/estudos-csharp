@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = introducao_matrizes
-build_property.ProjectDir = c:\Users\vinic\Documents\git\estudos-csharp\introducao-matrizes\
+build_property.RootNamespace = random
+build_property.ProjectDir = c:\Users\vinic\Documents\git\estudos-csharp\random\
