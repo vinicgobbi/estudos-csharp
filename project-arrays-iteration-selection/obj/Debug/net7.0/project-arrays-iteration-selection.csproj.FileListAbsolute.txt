@@ -1,0 +1,15 @@
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\bin\Debug\net7.0\project-arrays-iteration-selection.exe
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\bin\Debug\net7.0\project-arrays-iteration-selection.deps.json
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\bin\Debug\net7.0\project-arrays-iteration-selection.runtimeconfig.json
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\bin\Debug\net7.0\project-arrays-iteration-selection.dll
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\bin\Debug\net7.0\project-arrays-iteration-selection.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.AssemblyInfoInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.AssemblyInfo.cs
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.dll
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\refint\project-arrays-iteration-selection.dll
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.pdb
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\project-arrays-iteration-selection.genruntimeconfig.cache
+C:\Users\vinic\Documents\git\estudos-csharp\project-arrays-iteration-selection\obj\Debug\net7.0\ref\project-arrays-iteration-selection.dll
